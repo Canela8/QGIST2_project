@@ -99,7 +99,7 @@ https://TU_USUARIO.github.io/TU_REPOSITORIO/
 
 ## 🧑‍💻 Autor
 
-Proyecto desarrollado y administrado por Fany Vite.
+Proyecto desarrollado y administrado por Canela.
 
 ---
 
