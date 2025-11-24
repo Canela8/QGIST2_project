@@ -101,6 +101,3 @@ https://TU_USUARIO.github.io/TU_REPOSITORIO/
 
 Proyecto desarrollado y administrado por Canela.
 
----
-
-Si necesitas agregar una sección adicional (créditos, licencia, pasos de instalación o screenshots), puedo actualizar el README cuando quieras.
